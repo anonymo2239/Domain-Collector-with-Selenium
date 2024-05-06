@@ -1,0 +1,10 @@
+webindi.com: 210.0
+befshop.com: 437.0
+mllblog.com: 199.0
+imqnews.com: 309.0
+ralnews.com: 351.0
+techrrl.com: 176.0
+WebMetre.com: 216.0
+mwmmusic.com: 255.0
+BouwBlog.com: 208.0
+shopbiba.com: 183.0
