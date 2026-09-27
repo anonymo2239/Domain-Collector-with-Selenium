@@ -1,0 +1,15 @@
+# Generated output
+domain_names_*.txt
+domain_values_*.txt
+
+# IDE / environment
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Binaries
+*.exe

@@ -54,7 +54,7 @@ def calculateValues():
                  "/html/body/div/div/div/div/div[1]/div[2]/div[3]/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[2]/div/span[2]")))
             price = price_element.text
             final_price = sayiyi_al(price)
-            if final_price > 170:
+            if final_price is not None and final_price > 170:
                 file.write(f"{domain}: {final_price}\n")
             i += 1
     sort_values(f"domain_values_{today_date}.txt")
